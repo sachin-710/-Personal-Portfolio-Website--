@@ -1,1 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>sachin-710 - Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>sachin-710</h1>
+    <p>Aspiring Web Developer</p>
+  </header>
 
+  <section>
+    <h2>About Me</h2>
+    <p>I am a 15-year-old learning to code. My goal is to become a millionaire by 25!</p>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript (learning)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li>To-Do App</li>
+      <li>Weather App (Coming Soon)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: sachin777510@gmail.com</p>
+  </section>
+</body>
+</html>
+
+body {
+  font-family: Arial;
+  background-color: #f0f0f0;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #007acc;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+}
+
+# Personal Portfolio Website
+
+This is my first website to showcase my skills and projects as a web developer.
+
+## Features
+- About Me
+- Skills
+- Projects
+- Contact Info
+
+## Live Demo
+[Click here](https://sachin-710.github.io/personal-portfolio)
+
+## Technologies
+- HTML
+- CSS
+
+## Author
+V.SACHIN
